@@ -8,8 +8,6 @@ Data, and the insight it offers, is essential for business to innovate and diffe
 
 With Big Data technologies, Business Intelligence is entering a new era. Hadoop and the likes, NoSQL databases, and Cloud managed infrastrutures store and represent structured and unstructured data and time series such as logs and sensors. From collect to visualization, the whole processing chain is processed in batch and real time.
 
-![Big Data ecosystem](../../feature/index.png)
-
 ## Information Systems
 
 What is an Information System (IS)?
